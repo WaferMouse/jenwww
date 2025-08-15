@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jenwww/static/css/main.600bff5f.css",
-    "main.js": "/jenwww/static/js/main.a15097de.js",
-    "static/js/453.b116f367.chunk.js": "/jenwww/static/js/453.b116f367.chunk.js",
-    "static/media/logo.svg": "/jenwww/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/jenwww/index.html",
-    "main.600bff5f.css.map": "/jenwww/static/css/main.600bff5f.css.map",
-    "main.a15097de.js.map": "/jenwww/static/js/main.a15097de.js.map",
-    "453.b116f367.chunk.js.map": "/jenwww/static/js/453.b116f367.chunk.js.map"
+    "main.css": "/static/css/main.600bff5f.css",
+    "main.js": "/static/js/main.f0a31087.js",
+    "static/js/453.b116f367.chunk.js": "/static/js/453.b116f367.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.600bff5f.css.map": "/static/css/main.600bff5f.css.map",
+    "main.f0a31087.js.map": "/static/js/main.f0a31087.js.map",
+    "453.b116f367.chunk.js.map": "/static/js/453.b116f367.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.600bff5f.css",
-    "static/js/main.a15097de.js"
+    "static/js/main.f0a31087.js"
   ]
 }
