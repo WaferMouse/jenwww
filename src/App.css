@@ -21,3 +21,9 @@
 .App-link {
   color: #61dafb;
 }
+
+.thumby {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
