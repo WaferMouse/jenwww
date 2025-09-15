@@ -7,14 +7,6 @@ function App() {
       <main>
         <div className="App">
           <header className="App-header">
-            <div id="profile-picture">
-              <img
-                src="JsYP5DFLTZayLOktMME0_94yy34iLHF26V1cu.jpg"
-                alt=""
-                role="presentation"
-                crossorigin="anonymous"
-              />
-            </div>
             <div id="profile-title">
               <h1>
                 Jenbles on the internet
@@ -94,6 +86,9 @@ function App() {
           </p>
         </div>
       </main>
+      <footer>
+        Contact: <a href="mailto:jen@jenblesaudio.zone">jen@jenblesaudio.zone</a>
+      </footer>
     </body>
   );
 }
