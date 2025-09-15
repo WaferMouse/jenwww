@@ -30,6 +30,8 @@
 
 .section-header {
   grid-column: 1 / span 2;
+  border: white;
+  border-style: solid;
 }
 
 a {

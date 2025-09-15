@@ -27,7 +27,8 @@ export default function ItemEntry(props) {
         class="buttony"
         height="auto"
         style={{
-          "grid-column-start": "2"
+          "grid-column-start": "2",
+          "text-align": "left"
         }}
       >
         <p>
