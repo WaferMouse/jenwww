@@ -24,6 +24,18 @@ function App() {
               <div
                 className="section-header"
               >
+                <h3 id="header-277898324">
+                  Game Development
+                </h3>
+              </div>
+              <ItemEntry
+                url="https://oxyoxspring.itch.io/polyarmory"
+                thumbimg="polyarmory.gif"
+                content="Polyarmory: High Calibre Love. The world's only fully-loaded conspiracy theorist gun-nut dating simulation. We'll bang, okay?"
+              />
+              <div
+                className="section-header"
+              >
                 <h3 id="header-277898266">
                   The Socials
                 </h3>
@@ -63,7 +75,7 @@ function App() {
                 </h3>
               </div>
               <ItemEntry
-                url=""
+                url="https://soundcloud.com/jenbles"
                 thumbimg="C2EfrZBTGAOlNTiAyNgE_avatars-000647867463-y4dfdb-t500x500.jpg"
                 content="Listen to me beep some boops"
               />
