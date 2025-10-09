@@ -4,6 +4,13 @@
   color: white;
 }
 
+.main {
+  display: flex;
+  flex-direction: row;
+  left: 0;
+  top: 0;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -23,7 +30,7 @@
 }
 
 #links-container {
-  margin-left: auto;
+  margin-left: 20%;
   margin-right: auto;
   width: fit-content;
 }
@@ -41,4 +48,25 @@ a {
 body {
   background-color: #282c34;
   color: white;
+}
+
+.nav {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  align-content: center;
+  width: 20%;
+}
+
+.App-header {
+  position: sticky;
+  left: 0;
+  top: 0;
+  background-color: #282c34;
+}
+
+.nav-list {
+  list-style-type:none;
+  text-align: left;
 }

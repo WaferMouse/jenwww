@@ -32,7 +32,7 @@ export default function ItemEntry(props) {
         }}
       >
         <p>
-          {props.content}
+          {props.children}
         </p>
       </a>
     </>
