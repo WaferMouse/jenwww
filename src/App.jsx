@@ -25,7 +25,7 @@ function App() {
                 "grid-template-columns": "auto auto"
               }}
             >
-              <SectionHeader><a id="sound-design"/>Sound Design</SectionHeader>
+              <SectionHeader><a id="sound-design" className="target-element"/>Sound Design</SectionHeader>
               <ItemEntry
                 url="https://oxyoxspring.itch.io/polyarmory"
                 thumbimg="polyarmory.gif"
@@ -38,7 +38,7 @@ function App() {
               >
                 Or play an out-of-her-depths manager in FATE Condensed on O.M.E.N. Investigations
               </ItemEntry>
-              <SectionHeader><a id="podcasts"/>Podcasts</SectionHeader>
+              <SectionHeader><a id="podcasts" className="target-element"/>Podcasts</SectionHeader>
               <ItemEntry
                 url="https://talesfromtheoasis.com/"
                 thumbimg="dQdNguWHSUiDztzRLttk_LogoV2Square3k_n5ua5g_1200x628.jpg"
@@ -57,7 +57,7 @@ function App() {
               >
                 Or play Maurice, a half human, half diner in Cybertopia
               </ItemEntry>
-              <SectionHeader><a id="music"/>Music</SectionHeader>
+              <SectionHeader><a id="music" className="target-element"/>Music</SectionHeader>
               <ItemEntry
                 url="https://jenbles.itch.io/escapschism"
                 thumbimg="escapschism.jpg"

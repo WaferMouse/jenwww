@@ -11,6 +11,12 @@
   top: 0;
 }
 
+.target-element {
+  top: -150px;
+  display: block;
+  position: relative;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
