@@ -86,13 +86,13 @@ function App() {
                 url="https://jenbles.itch.io/"
                 thumbimg="question-mark_2753.png"
               >
-                itch.io
+                Jenbles on itch.io
               </ItemEntry>
               <ItemEntry
                 url="https://soundcloud.com/thisstylishcrime"
                 thumbimg="ro7uEGoRA2QWxk1gDP1Q_avatars-WZnay2ueRBV9ojbz-oCNvpA-t500x500.jpg"
               >
-                This Stylish Crime
+                This Stylish Crime on Soundcloud
               </ItemEntry>
             </div>
           </div>
