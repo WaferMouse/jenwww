@@ -36,7 +36,7 @@ function App() {
                 url="https://www.omeninvestigations.com/"
                 thumbimg="4d2d79d1-082e-41e4-8a23-e538aa3b1428_OMEN-Logo-Art-1200x628.jpeg"
               >
-                Or play an out-of-her-depths manager in FATE Condensed on O.M.E.N. Investigations
+                I play an out-of-her-depths manager in FATE Condensed on O.M.E.N. Investigations
               </ItemEntry>
               <SectionHeader><a id="podcasts" className="target-element"/>Podcasts</SectionHeader>
               <ItemEntry
